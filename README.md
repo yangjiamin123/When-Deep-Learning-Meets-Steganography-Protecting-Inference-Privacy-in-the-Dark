@@ -1,1 +1,2 @@
 # When-Deep-Learning-Meets-Steganography-Protecting-Inference-Privacy-in-the-Dark
+This project is an implementation of the paper When Deep Learning Meets Steganography: Protecting Inference Privacy in the Dark, uploading the MNIST dataset and the SVHN dataset. Different ratios y can be trained with the same code, but the process of image processing before training is different. LSB.PY and NNS.PY are two different ways of steganographic images. denoising is to denoise the perturbed image.
